@@ -1,5 +1,3 @@
-Have any cool feature ideas or fixes? Feel free to contribute!
-
 # Python Comment Task Tracker
 Sorts your Python comments into 3 categories: "1. To Do", "2. In Progress", "3. Miscellaneous"
 
@@ -35,3 +33,5 @@ Sorts your Python comments into 3 categories: "1. To Do", "2. In Progress", "3. 
 
 
 ### ^ Shows you what lines the comments are on in your IDE + Updates when you add, remove, or change comments in that file! (You have to save the file)
+
+Have any cool feature ideas or fixes? Feel free to contribute!
